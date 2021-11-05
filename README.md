@@ -1,0 +1,2 @@
+# BadgerScheduleManager
+Software project
