@@ -1,0 +1,6 @@
+module Pods_bsm_bsmTests {
+  umbrella header "Pods-bsm-bsmTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
